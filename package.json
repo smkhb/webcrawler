@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Project to learn more about HTTP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smkhb/webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smkhb/webcrawler/issues"
+  },
+  "homepage": "https://github.com/smkhb/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
