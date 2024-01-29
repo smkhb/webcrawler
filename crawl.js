@@ -10,6 +10,3 @@ function normalizeURL(url){
 module.exports = {
   normalizeURL
 }
-
-
-//normalizeURL('https://blog.boot.dev/path')
